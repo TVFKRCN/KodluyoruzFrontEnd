@@ -1,0 +1,11 @@
+body{
+    background-color: #E9ECEF;
+}
+
+
+ img {
+    height: 400px;
+    width: 100%;
+    object-fit: fill;
+    display: block;
+} 
